@@ -43,6 +43,8 @@ Notebook uporablja že pripravljeno datoteko `pesmi_ociscene.csv`, zato
 ponoven zagon `main.py` in s tem ponoven zajem podatkov s spletne strani
 ni potreben.
 
+**OPOMBA:** `pesmi_ociscene.csv` vsebuje podatke, ki smo jih preuredili s `priprava.py` in jih nato uvozili v analizi. `pesmi.csv` pa vsebuje prvotne podatke, direktno izluščene iz spletne strani in je v repozitoriju zgolj za primerjavo, kaj naredi `priprava.py`.
+
 ## Uporabljene knjižnice
 
 Za zajem, pripravo in analizo podatkov so uporabljene predvsem knjižnice:
